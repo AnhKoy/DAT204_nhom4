@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRS_Nhom4", "SSRS_Nhom4.rptproj", "{025C4FA6-BA93-4FD8-921C-B20C6EAAF92C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{025C4FA6-BA93-4FD8-921C-B20C6EAAF92C}.Debug|Default.ActiveCfg = Debug
+		{025C4FA6-BA93-4FD8-921C-B20C6EAAF92C}.Debug|Default.Build.0 = Debug
+		{025C4FA6-BA93-4FD8-921C-B20C6EAAF92C}.Debug|Default.Deploy.0 = Debug
+		{025C4FA6-BA93-4FD8-921C-B20C6EAAF92C}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{025C4FA6-BA93-4FD8-921C-B20C6EAAF92C}.DebugLocal|Default.Build.0 = DebugLocal
+		{025C4FA6-BA93-4FD8-921C-B20C6EAAF92C}.Release|Default.ActiveCfg = Release
+		{025C4FA6-BA93-4FD8-921C-B20C6EAAF92C}.Release|Default.Build.0 = Release
+		{025C4FA6-BA93-4FD8-921C-B20C6EAAF92C}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
